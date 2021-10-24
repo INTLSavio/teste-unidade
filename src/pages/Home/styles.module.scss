@@ -1,0 +1,26 @@
+.container {
+    height: 50rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    margin: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.group {
+    width: 58vw;
+}
+
+.textList {
+    margin-left: 3rem;
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
